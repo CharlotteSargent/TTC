@@ -1,0 +1,485 @@
+@media(min-width: 350px) {
+    hr.line {
+        width: 50%;
+        margin-left: 3%;
+        color: rgb(224, 224, 224);
+        background-color: rgb(224, 224, 224);
+   }
+    .toprow, .careersrow {
+        margin-left: 20px;
+   }
+    .titlelabel, .titlemargin, .titlemarginbottom {
+        margin-right: 15px;
+   }
+    .title, .location {
+        font-size: 10pt;
+   }
+    .locationlabel, .titlelabel {
+        font-size: 10pt;
+   }
+    .titlemargin, .titlemarginbottom, .titlelabel {
+        width: 200px;
+   }
+    .toprow {
+        margin-bottom: 2%;
+   }
+    .location {
+        margin-top: 1%;
+    }
+}
+@media(min-width: 600px){
+    hr.line {
+        width: 70%;
+        margin-left: 3%;
+        color: rgb(224, 224, 224);
+        background-color: rgb(224, 224, 224);
+   }
+    .toprow, .careersrow {
+        margin-left: 15px;
+   }
+    .titlelabel, .titlemargin, .titlemarginbottom {
+        margin-right: 25px;
+   }
+    .title, .location {
+        font-size: 16pt;
+   }
+    .locationlabel, .titlelabel {
+        font-size: 10pt;
+   }
+}
+@media(min-width: 650px){
+    hr.line {
+        width: 75%;
+        margin-left: 3%;
+        color: rgb(224, 224, 224);
+        background-color: rgb(224, 224, 224);
+   }
+    .toprow, .careersrow {
+        margin-left: 20px;
+   }
+    .titlelabel, .titlemargin, .titlemarginbottom {
+        margin-right: 50px;
+   }
+    .title, .location {
+        font-size: 18pt;
+   }
+    .locationlabel, .titlelabel {
+        font-size: 12pt;
+   }
+}
+@media(min-width: 700px){
+    hr.line {
+        width: 75%;
+        margin-left: 4%;
+        color: rgb(224, 224, 224);
+        background-color: rgb(224, 224, 224);
+   }
+    .toprow, .careersrow {
+        margin-left: 30px;
+   }
+    .titlelabel, .titlemargin, .titlemarginbottom {
+        margin-right: 100px;
+   }
+    .title, .location {
+        font-size: 20pt;
+   }
+    .locationlabel, .titlelabel {
+        font-size: 14pt;
+   }
+}
+@media(min-width: 800px){
+    hr.line {
+        width: 80%;
+        margin-left: 4%;
+        color: rgb(224, 224, 224);
+        background-color: rgb(224, 224, 224);
+   }
+    .toprow, .careersrow {
+        margin-left: 40px;
+   }
+    .titlelabel, .titlemargin, .titlemarginbottom {
+        margin-right: 150px;
+   }
+    .title, .location {
+        font-size: 20pt;
+   }
+    .locationlabel, .titlelabel {
+        font-size: 14pt;
+   }
+}
+@media(min-width: 850px){
+    hr.line {
+        width: 80%;
+        margin-left: 4%;
+        color: rgb(224, 224, 224);
+        background-color: rgb(224, 224, 224);
+   }
+    .toprow, .careersrow {
+        margin-left: 40px;
+   }
+    .titlelabel, .titlemargin, .titlemarginbottom {
+        margin-right: 200px;
+   }
+    .title, .location {
+        font-size: 20pt;
+   }
+    .locationlabel, .titlelabel {
+        font-size: 14pt;
+   }
+}
+@media(min-width: 900px){
+    hr.line {
+        width: 85%;
+        margin-left: 4%;
+        color: rgb(224, 224, 224);
+        background-color: rgb(224, 224, 224);
+   }
+    .toprow, .careersrow {
+        margin-left: 40px;
+   }
+    .titlelabel, .titlemargin, .titlemarginbottom {
+        margin-right: 200px;
+   }
+    .title, .location {
+        font-size: 24pt;
+   }
+    .locationlabel, .titlelabel {
+        font-size: 18pt;
+   }
+}
+@media(min-width: 1000px){
+    hr.line {
+        width: 85%;
+        margin-left: 4%;
+        color: rgb(224, 224, 224);
+        background-color: rgb(224, 224, 224);
+   }
+    .toprow, .careersrow {
+        margin-left: 40px;
+   }
+    .titlelabel, .titlemargin, .titlemarginbottom {
+        margin-right: 300px;
+   }
+}
+@media(min-width: 1100px){
+    hr.line {
+        width: 87%;
+        margin-left: 4%;
+        color: rgb(224, 224, 224);
+        background-color: rgb(224, 224, 224);
+   }
+    .toprow, .careersrow {
+        margin-left: 50px;
+   }
+    .titlelabel, .titlemargin, .titlemarginbottom {
+        margin-right: 400px;
+   }
+}
+@media(min-width: 1200px){
+    hr.line {
+        width: 87%;
+        margin-left: 4%;
+        color: rgb(224, 224, 224);
+        background-color: rgb(224, 224, 224);
+   }
+    .toprow, .careersrow {
+        margin-left: 50px;
+   }
+    .titlelabel, .titlemargin, .titlemarginbottom {
+        margin-right: 500px;
+   }
+}
+@media(min-width: 1300px){
+    hr.line {
+        width: 87%;
+        margin-left: 4%;
+        color: rgb(224, 224, 224);
+        background-color: rgb(224, 224, 224);
+   }
+    .toprow, .careersrow {
+        margin-left: 50px;
+   }
+    .titlelabel, .titlemargin, .titlemarginbottom {
+        margin-right: 600px;
+   }
+}
+@media(min-width: 1400px){
+    hr.line {
+        width: 85%;
+        margin-left: 5%;
+        color: rgb(224, 224, 224);
+        background-color: rgb(224, 224, 224);
+   }
+    .toprow, .careersrow {
+        margin-left: 80px;
+   }
+    .titlelabel, .titlemargin, .titlemarginbottom {
+        margin-right: 700px;
+   }
+}
+@media(min-width: 1550px){
+    hr.line {
+        width: 85%;
+        margin-left: 5%;
+        color: rgb(224, 224, 224);
+        background-color: rgb(224, 224, 224);
+   }
+    .toprow, .careersrow {
+        margin-left: 100px;
+   }
+    .titlelabel, .titlemargin, .titlemarginbottom {
+        margin-right: 800px;
+   }
+}
+.ttc-body {
+    position: relative;
+    margin-top: 152px;
+    width: 100%;
+    height: auto;
+    overflow-y: auto;
+    color: #000000;
+}
+
+@media(min-width: 400px) {
+    hr.line {
+        width: 60%;
+        margin-left: 3%;
+        color: rgb(224, 224, 224);
+        background-color: rgb(224, 224, 224);
+   }
+    .toprow, .careersrow {
+        margin-left: 20px;
+   }
+    .titlelabel, .titlemargin, .titlemarginbottom {
+        margin-right: 15px;
+   }
+    .title, .location {
+        font-size: 12pt;
+   }
+    .locationlabel, .titlelabel {
+        font-size: 10pt;
+   }
+    .titlemargin, .titlemarginbottom, .titlelabel {
+        width: 250px;
+   }
+    .toprow {
+        margin-bottom: 3.25%;
+   }
+    .location {
+        margin-top: 0%;
+   }
+}
+
+@media(min-width: 500px) {
+    hr.line {
+        width: 60%;
+        margin-left: 5%;
+        color: rgb(224, 224, 224);
+        background-color: rgb(224, 224, 224);
+   }
+    .toprow, .careersrow {
+        margin-left: 30px;
+   }
+    .titlelabel, .titlemargin, .titlemarginbottom {
+        margin-right: 15px;
+   }
+    .title, .location {
+        font-size: 12pt;
+   }
+    .locationlabel, .titlelabel {
+        font-size: 10pt;
+   }
+    .titlemargin, .titlemarginbottom, .titlelabel {
+        width: 300px;
+   }
+}
+
+@media(min-width: 450px) {
+    hr.line {
+        width: 60%;
+        margin-left: 3%;
+        color: rgb(224, 224, 224);
+        background-color: rgb(224, 224, 224);
+   }
+    .toprow, .careersrow {
+        margin-left: 20px;
+   }
+    .titlelabel, .titlemargin, .titlemarginbottom {
+        margin-right: 15px;
+   }
+    .title, .location {
+        font-size: 12pt;
+   }
+    .locationlabel, .titlelabel {
+        font-size: 10pt;
+   }
+    .titlemargin, .titlemarginbottom, .titlelabel {
+        width: 300px;
+   }
+}
+
+@media(min-width: 550px){
+    hr.line {
+        width: 65%;
+        margin-left: 2%;
+        color: rgb(224, 224, 224);
+        background-color: rgb(224, 224, 224);
+   }
+    .toprow, .careersrow {
+        margin-left: 10px;
+   }
+    .titlelabel, .titlemargin, .titlemarginbottom {
+        margin-right: 15px;
+   }
+    .title, .location {
+        font-size: 14pt;
+   }
+    .locationlabel, .titlelabel {
+        font-size: 10pt;
+   }
+    .titlemargin, .titlemarginbottom, .titlelabel {
+        width: 375px;
+   }
+}
+
+.careers-img-div {
+    height: 505px;
+    width: 1440px;
+    position: relative;
+    // overflow-x: auto;
+}
+
+.heading {
+    transform: translateY(-400px);
+    position: relative;
+}
+
+.careers-img {
+    width: 100%;
+    min-height: 100%;
+}
+
+.text-div {
+    position: absolute;
+    width: 711px;
+    height: 176px;
+    left: calc(50% - 711px/2);
+    top: calc(50% - 176px/2 - 0.5px);
+    background-color: red;
+}
+.rectangle {
+    background: var(--ion-color-TTCLime);
+    position: absolute;
+    //top: 200px;
+    left: 32.5%;
+    margin-bottom: 3px;
+    width: 35%;
+    border-radius: 4px;
+    font-family: "Poppins Bold";
+    //font-size: 36px;
+    line-height: 10px;
+    height: 30px;
+    text-align: center;
+}
+.sub-text {
+    position: absolute;
+    width: 49.375%;
+    left: 25.3125%;
+    text-align: center;
+    margin-top: 3%;
+    font-family: Poppins;
+}
+​ .careerbottomgrid {
+    margin-top: 5.209%;
+    //100px margin-bottom: 8.75%;
+    //168px display: inline-grid;
+    grid-template-columns: auto;
+    width: 100%;
+}
+​ .toprow {
+    margin-bottom: 3.25%;
+}
+​ .titlelabel {
+    margin-right: 0%;
+}
+​ .locationlabel, .titlelabel {
+    font-family: "Poppins Regular";
+    font-size: 18pt;
+    color: #828282;
+    width: 375px;
+}
+​ .titlemargin, .titlemarginbottom {
+    width: 375px;
+    margin-right: 0px;
+}
+​ .titlemargin {
+    margin-top: 2.409%;
+    margin-bottom: 2.409%;
+}
+​ .titlemarginbottom {
+    margin-top: 1.409%;
+}
+​ .title {
+    font-family: "Poppins Bold";
+    font-size: 24pt;
+    color: #E3BA2D;
+}
+​ .title:hover {
+    color: #000000;
+}
+​ .location {
+    font-family: "Poppins Regular";
+    font-size: 24pt;
+    width: 375px;
+}
+​ button {
+    border: none;
+    background: none;
+}
+​ .careersrow {
+    margin-top: 1%;
+    margin-bottom: 1% 
+}
+​ hr.line {
+    width: 85%;
+    margin-left: 5%;
+    color: rgb(224, 224, 224);
+    background-color: rgb(224, 224, 224);
+}
+​ .toprow, .careersrow {
+    display: inline-grid;
+    grid-template-columns: auto auto;
+    margin-left: 100px;
+}
+​ .titlelabel, .titlemargin, .titlemarginbottom {
+    margin-right: 800px;
+}
+@media(min-width: 300px) {
+    hr.line {
+        width: 50%;
+        margin-left: 2%;
+        color: rgb(224, 224, 224);
+        background-color: rgb(224, 224, 224);
+   }
+    .toprow, .careersrow {
+        margin-left: 10px;
+   }
+    .titlelabel, .titlemargin, .titlemarginbottom {
+        margin-right: 5px;
+   }
+    .title, .location {
+        font-size: 10pt;
+   }
+    .locationlabel, .titlelabel {
+        font-size: 10pt;
+   }
+    .titlemargin, .titlemarginbottom, .titlelabel {
+        width: 175px;
+   }
+    .toprow {
+        margin-bottom: 2%;
+   }
+    .location {
+        margin-top: 1%;
+   }
+}
